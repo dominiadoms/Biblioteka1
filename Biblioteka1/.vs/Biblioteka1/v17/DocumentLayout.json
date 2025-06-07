@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\books.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|solutionrelative:Biblioteka1\\books.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\data\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|solutionrelative:Biblioteka1\\data\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|solutionrelative:Biblioteka1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\students.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|solutionrelative:Biblioteka1\\students.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\data\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6EE4F24-F9F9-4487-B5C9-C461357B892E}|Biblioteka1\\Biblioteka1.pyproj|solutionrelative:Biblioteka1\\data\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "books.json",
+              "DocumentMoniker": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\data\\books.json",
+              "RelativeDocumentMoniker": "Biblioteka1\\data\\books.json",
+              "ToolTip": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\data\\books.json",
+              "RelativeToolTip": "Biblioteka1\\data\\books.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T14:20:30.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "students.json",
+              "DocumentMoniker": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\data\\students.json",
+              "RelativeDocumentMoniker": "Biblioteka1\\data\\students.json",
+              "ToolTip": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\data\\students.json",
+              "RelativeToolTip": "Biblioteka1\\data\\students.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T20:53:34.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "students.py",
+              "DocumentMoniker": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\students.py",
+              "RelativeDocumentMoniker": "Biblioteka1\\students.py",
+              "ToolTip": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\students.py",
+              "RelativeToolTip": "Biblioteka1\\students.py",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAiwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-06T20:53:11.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "books.py",
+              "DocumentMoniker": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\books.py",
+              "RelativeDocumentMoniker": "Biblioteka1\\books.py",
+              "ToolTip": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\books.py",
+              "RelativeToolTip": "Biblioteka1\\books.py",
+              "ViewState": "AQIAACkAAAAAAAAAAADwv1MAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-06T14:19:34.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\main.py",
+              "RelativeDocumentMoniker": "Biblioteka1\\main.py",
+              "ToolTip": "C:\\Users\\Damian\\Biblioteka\\Biblioteka1\\Biblioteka1\\main.py",
+              "RelativeToolTip": "Biblioteka1\\main.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-06T14:19:08.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "tytul": "Zbrodnia i kara",
+    "autor": "Fiodor Dostojewski",
+    "rok": "1866",
+    "strony": "576",
+    "ilosc": "3"
+  },
+  {
+    "tytul": "Rok 1984",
+    "autor": "George Orwell",
+    "rok": "1949",
+    "strony": "328",
+    "ilosc": "4"
+  },
+  {
+    "tytul": "Duma i uprzedzenie",
+    "autor": "Jane Austen",
+    "rok": "1813",
+    "strony": "432",
+    "ilosc": "2"
+  },
+  {
+    "tytul": "Buszujący w zbożu",
+    "autor": "J.D. Salinger",
+    "rok": "1951",
+    "strony": "277",
+    "ilosc": "5"
+  },
+  {
+    "tytul": "Władca Pierścieni",
+    "autor": "J.R.R. Tolkien",
+    "rok": "1954",
+    "strony": "1216",
+    "ilosc": "3"
+  },
+  {
+    "tytul": "Harry Potter i Kamień Filozoficzny",
+    "autor": "J.K. Rowling",
+    "rok": "1997",
+    "strony": "320",
+    "ilosc": "5"
+  },
+  {
+    "tytul": "Sto lat samotności",
+    "autor": "Gabriel García Márquez",
+    "rok": "1967",
+    "strony": "448",
+    "ilosc": "2"
+  },
+  {
+    "tytul": "Mistrz i Małgorzata",
+    "autor": "Michaił Bułhakow",
+    "rok": "1967",
+    "strony": "432",
+    "ilosc": "3"
+  },
+  {
+    "tytul": "Lalka",
+    "autor": "Bolesław Prus",
+    "rok": "1890",
+    "strony": "688",
+    "ilosc": "2"
+  },
+  {
+    "tytul": "Pan Tadeusz",
+    "autor": "Adam Mickiewicz",
+    "rok": "1834",
+    "strony": "340",
+    "ilosc": "4"
+  },
+  {
+    "tytul": "Mały Książę",
+    "autor": "Antoine de Saint-Exupéry",
+    "rok": "1943",
+    "strony": "112",
+    "ilosc": "5"
+  },
+  {
+    "tytul": "Zielona Mila",
+    "autor": "Stephen King",
+    "rok": "1996",
+    "strony": "512",
+    "ilosc": "3"
+  },
+  {
+    "tytul": "To",
+    "autor": "Stephen King",
+    "rok": "1986",
+    "strony": "1104",
+    "ilosc": "2"
+  },
+  {
+    "tytul": "Inferno",
+    "autor": "Dan Brown",
+    "rok": "2013",
+    "strony": "640",
+    "ilosc": "4"
+  },
+  {
+    "tytul": "Kod Leonarda da Vinci",
+    "autor": "Dan Brown",
+    "rok": "2003",
+    "strony": "592",
+    "ilosc": "3"
+  },
+  {
+    "tytul": "Ojciec chrzestny",
+    "autor": "Mario Puzo",
+    "rok": "1969",
+    "strony": "448",
+    "ilosc": "3"
+  },
+  {
+    "tytul": "Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "rok": "1937",
+    "strony": "320",
+    "ilosc": "4"
+  },
+  {
+    "tytul": "Gra o tron",
+    "autor": "George R.R. Martin",
+    "rok": "1996",
+    "strony": "848",
+    "ilosc": "3"
+  },
+  {
+    "tytul": "Opowieść podręcznej",
+    "autor": "Margaret Atwood",
+    "rok": "1985",
+    "strony": "384",
+    "ilosc": "2"
+  },
+  {
+    "tytul": "Cień wiatru",
+    "autor": "Carlos Ruiz Zafón",
+    "rok": "2001",
+    "strony": "544",
+    "ilosc": "3"
+  }
+]
